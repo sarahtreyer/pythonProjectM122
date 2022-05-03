@@ -8,7 +8,7 @@ from PIL import Image
 from sendgrid import SendGridAPIClient, Attachment, FileName, FileContent, Disposition, FileType
 from sendgrid.helpers.mail import Mail
 
-SENDGRID_API_KEY='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'
+SENDGRID_API_KEY='XY'
 
 
 class PDF(FPDF):
